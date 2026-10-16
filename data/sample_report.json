@@ -1,0 +1,55 @@
+{
+  "department": "JASS Demo Workspace",
+  "report_title": "Synthetic Mutation Pendency Sample",
+  "generated_on": "Demo data only",
+  "records": [
+    {
+      "S.No.": "1",
+      "Mutation No": "7001",
+      "Mutation Date": "12/10/2026",
+      "Mutation Status": "Entry Level",
+      "Registry Number": "R-1001",
+      "Registry Date": "05/10/2026"
+    },
+    {
+      "S.No.": "2",
+      "Mutation No": "7002",
+      "Mutation Date": "10/10/2026",
+      "Mutation Status": "Sanctioned",
+      "Registry Number": "R-1002",
+      "Registry Date": "10/10/2026"
+    },
+    {
+      "S.No.": "3",
+      "Mutation No": "7003",
+      "Mutation Date": "08/10/2026",
+      "Mutation Status": "Incorporated",
+      "Registry Number": "R-1003",
+      "Registry Date": "02/10/2026"
+    },
+    {
+      "S.No.": "4",
+      "Mutation No": "7004",
+      "Mutation Date": "06/10/2026",
+      "Mutation Status": "Entry Done",
+      "Registry Number": "-",
+      "Registry Date": "-"
+    },
+    {
+      "S.No.": "5",
+      "Mutation No": "7005",
+      "Mutation Date": "02/10/2026",
+      "Mutation Status": "Incorporated",
+      "Registry Number": "R-1005",
+      "Registry Date": "28/09/2026"
+    },
+    {
+      "S.No.": "6",
+      "Mutation No": "7006",
+      "Mutation Date": "29/09/2026",
+      "Mutation Status": "Entry Level",
+      "Registry Number": "-",
+      "Registry Date": "-"
+    }
+  ]
+}
